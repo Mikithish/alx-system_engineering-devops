@@ -1,1 +1,2 @@
 #!/bin/bash 3-paths
+export PATH=$PATH:/action
